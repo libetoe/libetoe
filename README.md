@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is LIAU LIBETOE
+#### I am Systems And Web Developer
+![I am Systems And Web Developer](https://github.com/libetoe/HomeRepo/blob/master/profilebackground3.PNG)
+
+I am a dedicated Computer Systems Engineering student with expertise in web development, encompassing proficiency in languages and frameworks such as Laravel, Flask, React, and WordPress. My skill set extends to encompass general IT tasks and cybersecurity essentials. Additionally, I possess a keen interest and proficiency in computer networking and cybersecurity. My commitment to continuous learning is evidenced by my enthusiasm for acquiring knowledge in diverse areas of technology.
+
+Skills: Laravel / Flask / JS / HTML / CSS 
+
+- 🔭 I’m currently working on this page. 
 
 
-**libetoe/libetoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/libetoe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/liau-libetoe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/liau.libetoe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/l/)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
