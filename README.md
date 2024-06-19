@@ -8,7 +8,7 @@ I am a dedicated Computer Systems Engineering student with expertise in web deve
 ## Skills and Experience
 
 - 🉑 Laravel
-- 💢 Flask
+- 💢 Django
 - ⚛️ React
 - 🖥️ HTML,CSS,JS 
   
