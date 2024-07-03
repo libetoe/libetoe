@@ -9,7 +9,7 @@ I am a dedicated Computer Systems Engineering student with expertise in web deve
 
 - 🉑 Laravel
 - 💢 Django
-- ⚛️ React
+- ⚛️ Bootstrap 5
 - 🖥️ HTML,CSS,JS 
   
 
